@@ -1,5 +1,6 @@
-import { Box } from "@mui/material";
 import React from "react";
+import "./App.css";
+import { Box } from "@mui/material";
 import { Route, Routes } from "react-router-dom";
 import Home from "./pages/Home";
 import ExerciseDetails from "./pages/ExerciseDetail";
